@@ -1,7 +1,8 @@
 # Polkadot Standards Proposals (PSPs)
+Propuesta estandar del ecosistema polkadot
 
-
-A Polkadot Standards Proposal (PSP) describes standards for the Polkadot ecosystem. The Polkadot Standards Proposal GitHub is a community-based initiative.  
+A Polkadot Standards Proposal (PSP) describes standards for the Polkadot ecosystem. The Polkadot Standards Proposal GitHub is a community-based initiative.  La propuesta estandar del ecosistme polcados descrive las convenciones para el ecosistema Polkadot. Las (PSP) son una propuesta en GtiHub como una iniciativa comunitaria de gestión de grupos.
+Las PSP no son sustitutarias de los procesos de Governanza de Polkadot y esto refiere a cuanto se ajusta al protocolo de patr
 PSP process is not supposed to be a substitute for Polkadot Governance process and is meant to focus only on commonly agreed usage patterns rather than protocol adjustments.  
 
 > __Disclaimer__: The Polkadot network is relatively young and many ecosystem
